@@ -12,5 +12,5 @@ void gugudan(int n) { // n * n ´Ü
 }
 
 int main() {
-	gugudan(8);
+	gugudan(9);
 }
